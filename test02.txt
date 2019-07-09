@@ -9,3 +9,6 @@ for ubuntu release v1.0.1
 
 for ubuntu ConfrictTest Edit by windows
 
+for ubuntu ConfrictTest
+
+
