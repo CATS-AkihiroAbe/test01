@@ -7,8 +7,6 @@ for ubuntu 2019_0702
 
 for ubuntu release v1.0.1
 
-for ubuntu ConfrictTest Edit by windows
-
-for ubuntu ConfrictTest
+ConfrictTest Edit by Ubuntu 20190709_1317
 
 
